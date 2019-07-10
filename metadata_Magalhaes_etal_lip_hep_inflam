@@ -1,0 +1,58 @@
+#### File description
+
+* rawdata_Magalhaes_etal_2019.csv (contains data of all lipid, hepatic and inflammatory variables in all studied individuals
+
+#### Variables description
+
+* group: (HIVpos = HIV+/ HIVneg = HIV-)
+* Age: Age of individuals (years)
+* GENDER: gender of individuals	
+
+* CD4: T CD4+ cell count (LOW = <400 Cells/mm3 / HIGH = <400 Cells/mm3)
+* CD8: T CD8+ cell count
++ CD4+ and CD8+ cell count by flow cytometry with BD FACSCount TM Controls reagent (BD Biosciences Immunocytometry Systems, San Jose, California, United States of America, [USA])
+
+* VL: Viral load
++ HIV viral load determination by Abbott RealTime HIV-1(NucliSens® HIV-1 QT, Biomérieux, Boxtel, Holland)
+
+*Hematologic variables*
+* hb = Hemoglobin
+* lk = Leukocytes
+* lf = Lymhocytes
+* plat = Platelets
++ Determined by flow cytometry using BD FACSCountTM Controls (BD Biosciences immunocytometry Systems, SJ, California, USA)
+
+* Comorbidities (Yes = 1 | No = 2) *
+has = Hypertension
+dm = Diabetes
+tab = Smoker
+
+* Biochemical variables *
+* cholesterol = Cholesterol (mg/dL)
+* tgl = Triglycerides (mg/dL)
+* hdl = high density lipoprotein (mg/dL)
+* ldl = low density lipoprotein (mg/dL)
+* alb = Albumin (g/dL)
+* glo = Globulin (g/dL)
+* got = oxalacetic transaminase (IU/L)
+* gpt = pyruvic transaminase (IU/L)
+* ggt = glutamic transaminase (IU/L)
+* tb = total bilirubin (mg/dL)
+* af = alkaline phosphatase (IU/L)
+* db = direct bilirubin (mg/dL)
+* ib = indirect bilirubin (mg/dL)
+* urea = Urea (mg/dL)
+* crea = Creatinin (mg/dL)
+* uac = Uric Acid (mg/dL)
++ The quantification of biochemical variables was performed in the Central Laboratory of HUGG, with standardized and automated techniques (UV and colorimetric kinetics).
+
+* Inflammatory proteins *
+* crp = ultrassensitive C-reactive protein (mg/mL)
++ The quantification of the ultra-sensitive C-reactive protein (us-CRP) was performed by the immunoturbidimetric method, carried out at the Central Laboratory/HUGG, using CPR HS Turbitest AA (Wierner Lab, St. Ingbert-Germany) and according to the manufacturer’s instructions, and as reference for inflammation, the values above 0.5 mg/ml. 
+* mcp1 = monocyte chemoattractant protein-1 (pg/dL)
+* ip10 = Interferon induced protein (Interferon induced protein) (pg/dL)
+* il6 = Interleukin-6 (pg/dL)
++ The serum quantification of IL-6, IP-10, and MCP-1 was performed by ELISA in the virology laboratory of Instituto Oswaldo Cruz-FIOCRUZ, using Peprotech kits (NJ, USA), according to the manufacturer’s instructions. IL-6 (Peprotech NJ, USA,900-M16), IP-10 (Peprotech NJ, USA,900-K39) and MCP-1 (Peprotech NJ, USA,900-K31)
+
+
+* PI: protease inhibitors use (1 = YES| 2 = NO)
